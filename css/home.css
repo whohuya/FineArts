@@ -1,0 +1,55 @@
+#top{
+    padding: 15px;
+    background-color: rgb(4,91,49);
+}
+.text1{
+    color: white;
+ font-weight: 900;
+text-align: center;
+    margin: 0px;
+}
+.text2{
+    color: white;
+    text-align: center;
+}
+form p {
+    color: white;
+    text-align: right;
+    margin: 0px;
+
+}
+form p a{
+    color: white;
+    margin: 0px 5px;
+}
+#btnCol{
+    background-color: rgb(4,91,49);
+}
+nav li a{
+    color: black;
+}
+nav li a:hover{
+    color: rgb(4,91,49);
+}
+.dropdown-menu li a{
+    text-align: center;
+    color: black;
+}
+#TopImg-left{
+    height: 500px;
+    width: 100%;
+    opacity: 0.5;
+}
+#TopImg-mid{
+    height: 500px;
+    width: 100%;
+
+}
+
+#TopImg-right{
+    height: 500px;
+    width: 100%;
+    opacity: 0.5;
+}
+
+
