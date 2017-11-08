@@ -1,6 +1,18 @@
+#all{
+    background-color: rgb(240,240,240);
+}
+#example-navbar-collapse{
+    background-color: white;
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
 #top{
     padding: 15px;
     background-color: rgb(4,91,49);
+}
+#top-img{
+    margin-top: 10px;
 }
 .text1{
     color: white;
@@ -51,5 +63,50 @@ nav li a:hover{
     width: 100%;
     opacity: 0.5;
 }
+b{
+    font-size: 15px;
 
+}
+.art-item{
+    margin-top:10px;
+    background-color: white;
+    padding: 10px;
+}
+.art-item ul{
+    padding: 0px;
+margin-left: 15px;}
+.art-item ul li a{
+    color: black;
 
+}
+.art-item ul li {
+    padding: 3px;
+}
+.art-item2{
+    margin-top:10px;
+    background-color: white;
+
+}
+.btnx{
+    font-size:15px;
+    color: rgb(4,91,49);
+    font-weight: 600;
+}
+.art-item2 ul{
+    padding: 10px;
+    margin-left: 25px;
+}
+.art-item2 ul li {
+    padding: 3px;
+}
+
+.art-item2 ul li a{
+    color: black;
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 70%;
+    height: 16px;
+
+}
