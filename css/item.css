@@ -1,0 +1,150 @@
+#all{
+    background-color: rgb(240,240,240);
+}
+#example-navbar-collapse{
+    background-color: white;
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+#top{
+    padding: 15px;
+    background-color: rgb(4,91,49);
+}
+#top-img{
+    margin-top: 10px;
+}
+.text1{
+    color: white;
+    font-weight: 900;
+    text-align: center;
+    margin: 0px;
+}
+.text2{
+    color: white;
+    text-align: center;
+}
+form p {
+    color: white;
+    text-align: right;
+    margin: 0px;
+
+}
+form p a{
+    color: white;
+    margin: 0px 5px;
+}
+#btnCol{
+    background-color: rgb(4,91,49);
+}
+nav li a{
+    color: black;
+}
+nav li a:hover{
+    color: rgb(4,91,49);
+}
+.dropdown-menu li a{
+    text-align: center;
+    color: black;
+}
+.item1{
+    margin-top: 10px;
+    background-color: white;
+    padding-top: 20px;
+    height: 600px;
+}
+.item2{
+    margin-top: 10px;
+    background-color: white;
+    padding-top: 20px;
+    height: 800px;
+}
+.dMarg{
+    margin-top:30px;
+    margin-left:20px;
+    margin-right: 20px;
+    border-bottom:2px solid rgb(240,240,240);
+}
+.min{
+    color: rgb(4,91,49);
+    font-size: 25px;
+    margin-left: 20px;
+
+}
+.active{
+    color:rgb(4,91,49);
+    font-size: 20px;
+    margin-left: 20px;
+}
+.atlNav{
+    color: black;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.dMarg a:hover{
+    color: rgb(4,91,49);
+   text-decoration: none;
+}
+.atlTitle{
+    margin: 20px;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+    border-bottom:3px solid rgb(240,240,240);
+}
+.mainAtl{
+    margin: 80px;
+    border-bottom:3px solid rgb(240,240,240);
+    height: 500px;
+}
+.mainAtl p {
+    font-weight: 900;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.mainAtl p span{
+    font-weight: 500;
+}
+.atlBottom{
+    margin-left: 80px;
+    margin-top: -70px;
+}
+.atlBottom p a{
+   color: black;
+    font-weight: 100;
+
+}
+.atlLeft{
+    margin-top: 10px;
+
+}
+.gao{
+    height: 600px;
+}
+.link{
+    margin-top:10px;
+    background-color: white;
+    padding: 10px;
+}
+.link-pd{
+    padding: 25px;
+}
+.link-pd a{
+    color: black;
+    padding: 40px;
+}
+footer{
+    margin-top: 10px;
+    background-color:rgb(4,91,49);
+}
+footer div p{
+    color: white;
+}
+.QR{
+    width: 100px;
+    height: 100px;
+}
+.pp{
+    margin-top: 5px;
+    padding-right: 15px;
+}

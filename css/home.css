@@ -48,18 +48,18 @@ nav li a:hover{
     color: black;
 }
 #TopImg-left{
-    height: 500px;
+height: 300px;
     width: 100%;
     opacity: 0.5;
 }
 #TopImg-mid{
-    height: 500px;
+    height: 300px;
     width: 100%;
 
 }
 
 #TopImg-right{
-    height: 500px;
+    height: 300px;
     width: 100%;
     opacity: 0.5;
 }
@@ -109,4 +109,54 @@ margin-left: 15px;}
     width: 70%;
     height: 16px;
 
+}
+.art-item3{
+    margin-top:10px;
+    background-color: white;
+    padding: 10px;
+}
+.art-item3 ul{
+    padding: 10px;
+    margin-left: 15px;
+}
+.art-item3 ul li {
+    padding: 3px;
+}
+
+.art-item3 ul li a{
+    color: black;
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 70%;
+    height: 16px;
+
+}
+.link{
+    margin-top:10px;
+    background-color: white;
+    padding: 10px;
+}
+.link-pd{
+    padding: 25px;
+}
+.link-pd a{
+    color: black;
+    padding: 40px;
+}
+footer{
+    margin-top: 10px;
+    background-color:rgb(4,91,49);
+}
+footer div p{
+    color: white;
+}
+.QR{
+    width: 100px;
+    height: 100px;
+}
+.pp{
+    margin-top: 5px;
+    padding-right: 15px;
 }
